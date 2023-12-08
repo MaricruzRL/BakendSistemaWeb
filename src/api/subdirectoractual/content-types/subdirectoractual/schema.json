@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "subdirectoractuals",
+  "info": {
+    "singularName": "subdirectoractual",
+    "pluralName": "subdirectoractuals",
+    "displayName": "subdirectoractual"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    }
+  }
+}

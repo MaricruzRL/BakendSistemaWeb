@@ -1,0 +1,73 @@
+{
+  "kind": "collectionType",
+  "collectionName": "evaluacion1_es",
+  "info": {
+    "singularName": "evaluacion1-e",
+    "pluralName": "evaluacion1-es",
+    "displayName": "Evaluacion1E",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dato1": {
+      "type": "string"
+    },
+    "dato2": {
+      "type": "string"
+    },
+    "dato3": {
+      "type": "string"
+    },
+    "dato4": {
+      "type": "string"
+    },
+    "dato5": {
+      "type": "string"
+    },
+    "dato6": {
+      "type": "string"
+    },
+    "dato7": {
+      "type": "string"
+    },
+    "dato8": {
+      "type": "string"
+    },
+    "dato9": {
+      "type": "string"
+    },
+    "dato10": {
+      "type": "string"
+    },
+    "dato11": {
+      "type": "string"
+    },
+    "dato12": {
+      "type": "string"
+    },
+    "dato13": {
+      "type": "string"
+    },
+    "dato14": {
+      "type": "string"
+    },
+    "dato15": {
+      "type": "string"
+    },
+    "idevaluado": {
+      "type": "string"
+    },
+    "observaciones": {
+      "type": "string"
+    },
+    "asesori": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "string"
+    }
+  }
+}

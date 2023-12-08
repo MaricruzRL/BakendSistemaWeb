@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "asesores_is",
+  "info": {
+    "singularName": "asesores-i",
+    "pluralName": "asesores-is",
+    "displayName": "AsesoresI",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "especialidad": {
+      "type": "text"
+    },
+    "cedula": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    }
+  }
+}

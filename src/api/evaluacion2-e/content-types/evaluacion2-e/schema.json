@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "evaluacion2_es",
+  "info": {
+    "singularName": "evaluacion2-e",
+    "pluralName": "evaluacion2-es",
+    "displayName": "Evaluacion2E",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dato1": {
+      "type": "string"
+    },
+    "dato2": {
+      "type": "string"
+    },
+    "dato3": {
+      "type": "string"
+    },
+    "dato4": {
+      "type": "string"
+    },
+    "dato5": {
+      "type": "string"
+    },
+    "dato6": {
+      "type": "string"
+    },
+    "dato7": {
+      "type": "string"
+    },
+    "dato8": {
+      "type": "string"
+    },
+    "dato9": {
+      "type": "string"
+    },
+    "dato10": {
+      "type": "string"
+    },
+    "idevaluado": {
+      "type": "string"
+    },
+    "observaciones": {
+      "type": "string"
+    },
+    "asesori": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "presidenteacademicos",
+  "info": {
+    "singularName": "presidenteacademico",
+    "pluralName": "presidenteacademicos",
+    "displayName": "presidenteacademico"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    }
+  }
+}

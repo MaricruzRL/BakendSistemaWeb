@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cordinadoras",
+  "info": {
+    "singularName": "cordinadora",
+    "pluralName": "cordinadoras",
+    "displayName": "cordinadora"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    }
+  }
+}

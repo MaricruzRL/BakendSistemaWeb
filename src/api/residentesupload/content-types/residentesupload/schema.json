@@ -1,0 +1,79 @@
+{
+  "kind": "collectionType",
+  "collectionName": "residentesuploads",
+  "info": {
+    "singularName": "residentesupload",
+    "pluralName": "residentesuploads",
+    "displayName": "Residentesupload",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "text"
+    },
+    "nombre_anteproyecto": {
+      "type": "text"
+    },
+    "periodo": {
+      "type": "text"
+    },
+    "empresa": {
+      "type": "string"
+    },
+    "asesorE": {
+      "type": "string"
+    },
+    "iddocumento": {
+      "type": "string"
+    },
+    "namedoc": {
+      "type": "string"
+    },
+    "estado": {
+      "type": "string"
+    },
+    "observaciones": {
+      "type": "text"
+    },
+    "carrera": {
+      "type": "text"
+    },
+    "ncontrol": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    },
+    "idasesor": {
+      "type": "string"
+    },
+    "correoasesor": {
+      "type": "string"
+    },
+    "califasesorI": {
+      "type": "string"
+    },
+    "califasesorE": {
+      "type": "string"
+    },
+    "asesorI": {
+      "type": "string"
+    },
+    "idasesorE": {
+      "type": "string"
+    },
+    "correoasesorE": {
+      "type": "string"
+    },
+    "genero": {
+      "type": "string"
+    },
+    "fuera": {
+      "type": "string"
+    }
+  }
+}
